@@ -1,4 +1,4 @@
-# CamerCanada
+
 #EXTM3U
 #EXTINF:0,A&amp;E
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNDozMCBQTSZoYXNoX3ZhbHVlPVd2S2NMOXMzRTFoaUFRQU83WW5pRmc9PSZ2YWxpZG1pbnV0ZXM9MjA=/ae9.stream
