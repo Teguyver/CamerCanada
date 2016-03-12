@@ -164,5 +164,5 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDI6Mjk
 http://cobra-iptv.noip.me:8000/live/pasqualino/pasqualino/8952.m3u8
 #EXTINF:-1,FR Canal Family
 http://cobra-iptv.noip.me:8000/live/pasqualino/pasqualino/8952.m3u8
-#EXTINF:-1,FR Canal Family
+#EXTINF:-1,Canal 2 International
 http://www.canal2international.net/live.php
